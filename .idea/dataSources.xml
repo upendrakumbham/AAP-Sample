@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3010424788">
+    <data-source source="LOCAL" name="HSQLDB (Local) - submissions-test" uuid="0f4b4446-a43f-4495-b311-7cd65f95bf23">
+      <driver-ref>hsqldb.local</driver-ref>
+      <jdbc-driver>org.hsqldb.jdbc.JDBCDriver</jdbc-driver>
+      <jdbc-url>jdbc:hsqldb:file:C:/submissions-test/mydb</jdbc-url>
+    </data-source>
+  </component>
+</project>
